@@ -11,9 +11,9 @@ Besides freelancing, I've dabbled in a bunch of businesses, like:
 - Operating an online store for new cars.
 - Currently working on a new SaaS.
 
-### The Lowdown
+### The Facts
 
-- I'm a web developer and SEO expert from Germany, with some Aussie sun in my past.
+- I'm a web developer and SEO expert from Germany.
 - I'm an entrepreneur who's launched a few startups.
 - I've got a solid 10+ years in the industry.
 - I'm all about mid-sized web applications, mostly using Laravel and Vue.js. But I can handle other frameworks too.

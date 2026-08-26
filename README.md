@@ -1,38 +1,35 @@
-## Hey, I'm Vincent!
+## Hey, I'm Vincent
 
-Entrepreneur, Freelance Software Developer (Laravel + Vue, WordPress), and SEO expert, based in Germany.
+Senior AI-first software engineer for SaaS and business apps. Laravel/Vue is my
+strongest client stack. Available for freelance work. Founder of
+[Vroni.com](https://www.vroni.com/).
 
-### My Ventures
+I use AI while planning, coding, testing, and reviewing, but I still own the
+architecture and code quality. I have 15+ years of experience building
+production software, online businesses, SaaS products, APIs, billing systems,
+queues, integrations, automation, and AI features.
 
-Besides freelancing, I've dabbled in a bunch of businesses, like:
-- Starting the first-ever mobile phone contract price comparison site in Germany.
-- Cooking up a SaaS startup for automating website translations.
-- Running a blog network with over a million monthly visitors.
-- Operating an online store for new cars.
-- Currently working on a new SaaS.
+### What I Work On
 
-### The Facts
+- SaaS products and business apps
+- Laravel, Vue, PHP, APIs, queues, billing, integrations, and performance
+- AI features, automation, coding-agent workflows, and developer tooling
+- existing production systems where careful changes matter
 
-- I'm a web developer and SEO expert from Germany.
-- I'm an entrepreneur who's launched a few startups.
-- I've got a solid 10+ years in the industry.
-- I'm all about mid-sized web applications, mostly using Laravel and Vue.js. But I can handle other frameworks too.
-- I've created 300+ WordPress based Websites and some custom plugins and themes.
-- I'm really good at delivering projects, whether it's websites, business apps, or SEO magic.
-- Fluent in English and German.
-- Legacy PHP apps, WordPress, APIs — you name it, I've worked with it.
-- I work with clients from all over the world.
+### Public Work
 
-### Recent Work
+- [rungrad](https://github.com/vincentsch/rungrad) - Go framework and spec for
+  CLIs used in terminals, scripts, and CI
+- [asana-cli](https://github.com/vincentsch/asana-cli) - unofficial
+  command-line client for Asana, built on rungrad
+- [awesome-ai-cli](https://github.com/vincentsch/awesome-ai-cli) - curated list
+  of CLI tools for AI coding agents
+- [Rapid SaaS with Laravel](https://leanpub.com/rapid-saas-with-laravel) -
+  book on building SaaS products with Laravel
+- [Vroni.com](https://www.vroni.com/) - fixed-price and flat-rate software
+  delivery
 
-Here are some snapshots of what I've been up to:
+### Contact
 
-1. **Complex SaaS Revamp:** Jumped into a client's complex SaaS system, fixed bugs, and added crucial features. No manual? No problem. I made it work!
-
-2. **Migration Success:** Took a high-cost Ruby on Rails backend, switched it to Laravel, and slashed monthly costs by ten. It was a win-win.
-
-3. **MVP Magic:** Turned a client's idea into an MVP using Laravel, Vue.js, and Meilisearch. It's a success story in the making.
-
-4. **AI-Powered Win:** Partnered with a client to create SEO content using GPT-4. Beating the competition while saving cash with AI smarts.
-
-If you want to chat, just reach out!
+- Website: [vincentschmalbach.com](https://www.vincentschmalbach.com/)
+- LinkedIn: [linkedin.com/in/vschmalbach](https://www.linkedin.com/in/vschmalbach)

@@ -28,8 +28,8 @@ queues, integrations, automation, and AI features.
   of CLI tools for AI coding agents
 - [Rapid SaaS with Laravel](https://leanpub.com/rapid-saas-with-laravel) -
   book on building SaaS products with Laravel
-- [Vroni.com](https://www.vroni.com/) - fixed-price and flat-rate software
-  delivery
+- [Vroni.com](https://www.vroni.com/) - an AI developer for your GitHub
+  repositories: give it a task and review the pull request it opens
 
 ### Contact
 

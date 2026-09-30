@@ -1,8 +1,10 @@
 ## Hey, I'm Vincent
 
 Senior AI-first software engineer for SaaS and business apps. Laravel/Vue is my
-strongest client stack. Available for freelance work. Founder of
+strongest client stack. Available for remote freelance work. Founder of
 [Vroni.com](https://www.vroni.com/).
+
+[Hire me for Laravel/Vue SaaS and business-app work](https://www.vincentschmalbach.com/hire-me/).
 
 I use AI while planning, coding, testing, and reviewing, but I still own the
 architecture and code quality. I have 15+ years of experience building

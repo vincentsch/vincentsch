@@ -20,12 +20,26 @@ queues, integrations, automation, and AI features.
 
 ### Public Work
 
+- [explainroo](https://github.com/vincentsch/explainroo) - explainer videos and
+  product demos made by your AI agent, narrated with a local voice
 - [rungrad](https://github.com/vincentsch/rungrad) - Go framework and spec for
   CLIs used in terminals, scripts, and CI
 - [asana-cli](https://github.com/vincentsch/asana-cli) - unofficial
   command-line client for Asana, built on rungrad
 - [awesome-ai-cli](https://github.com/vincentsch/awesome-ai-cli) - curated list
   of CLI tools for AI coding agents
+- [soundroo](https://github.com/vincentsch/soundroo) - music made by your AI
+  agent: it writes the score, soundroo renders and plays it
+- [pressqueue](https://github.com/vincentsch/pressqueue) - free WordPress plugin
+  that shares your posts on social networks through Buffer
+- [chab-cli](https://github.com/vincentsch/chab-cli) - Chab command-line tool,
+  local MCP server and agent skill
+- Smaller tools built on rungrad: [tabslip](https://github.com/vincentsch/tabslip)
+  (receipts for AI API calls), [saidran](https://github.com/vincentsch/saidran)
+  (checks what a coding agent says it tested),
+  [sealjar](https://github.com/vincentsch/sealjar) (timestamped captures of
+  websites and code) and [fendkit](https://github.com/vincentsch/fendkit)
+  (EU Cyber Resilience Act evidence)
 - [Rapid SaaS with Laravel](https://leanpub.com/rapid-saas-with-laravel) -
   book on building SaaS products with Laravel
 - [Vroni.com](https://www.vroni.com/) - an AI developer for your GitHub

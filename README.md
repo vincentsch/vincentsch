@@ -18,7 +18,16 @@ queues, integrations, automation, and AI features.
 - AI features, automation, coding-agent workflows, and developer tooling
 - existing production systems where careful changes matter
 
-### Public Work
+### Projects
+
+- [Vroni.com](https://www.vroni.com/) - an AI developer for your GitHub
+  repositories: give it a task and review the pull request it opens
+- [Unspar.com](https://www.unspar.com/) - AI article writer that researches and
+  publishes
+- [Rapid SaaS with Laravel](https://leanpub.com/rapid-saas-with-laravel) -
+  book on building SaaS products with Laravel
+
+### Open Source
 
 - [explainroo](https://github.com/vincentsch/explainroo) - explainer videos and
   product demos made by your AI agent, narrated with a local voice
@@ -32,18 +41,12 @@ queues, integrations, automation, and AI features.
   agent: it writes the score, soundroo renders and plays it
 - [pressqueue](https://github.com/vincentsch/pressqueue) - free WordPress plugin
   that shares your posts on social networks through Buffer
-- [chab-cli](https://github.com/vincentsch/chab-cli) - Chab command-line tool,
-  local MCP server and agent skill
 - Smaller tools built on rungrad: [tabslip](https://github.com/vincentsch/tabslip)
   (receipts for AI API calls), [saidran](https://github.com/vincentsch/saidran)
   (checks what a coding agent says it tested),
   [sealjar](https://github.com/vincentsch/sealjar) (timestamped captures of
   websites and code) and [fendkit](https://github.com/vincentsch/fendkit)
   (EU Cyber Resilience Act evidence)
-- [Rapid SaaS with Laravel](https://leanpub.com/rapid-saas-with-laravel) -
-  book on building SaaS products with Laravel
-- [Vroni.com](https://www.vroni.com/) - an AI developer for your GitHub
-  repositories: give it a task and review the pull request it opens
 
 ### Contact
 
